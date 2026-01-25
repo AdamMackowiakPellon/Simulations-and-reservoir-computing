@@ -1,5 +1,5 @@
 # Physics, math and reservoir computing
-Repository of some recent projects that I have done recently related to physics and reservoir computing.
+Repository of some projects that I have done recently related to physics and reservoir computing.
 
 As times go on I will add more and more projects that I have done over the years or that I have been doing recently related to these topics.
 
